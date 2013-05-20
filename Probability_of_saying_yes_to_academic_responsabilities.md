@@ -1,8 +1,8 @@
 I've just read a great post by +Adriano Salerno: [Learning to say no](http://blogs.ams.org/phdplus/2013/05/19/learning-to-say-no).
 
-In this post Adriano discusses how in mathematics (and I'm sure a bunch of other/most fields) one needs a long period of uninterrupted time to work on Research (she links to this Big Bang Theory clip:
+In this post Adriano discusses how in mathematics (and I'm sure a bunch of other/most fields) one needs a long period of uninterrupted time to work on Research she links to this Big Bang Theory clip:
 
-CLIP HERE
+<iframe width="640" height="360" src="http://www.youtube.com/embed/i5oc-70Fby4" frameborder="0" allowfullscreen></iframe>
 
 She also however talks about how as an early career researcher it's important to take opportunities for responsibilities as and when they come. This is something that rings very true to me. Growing up I played a lot of rugby and basically had a "Say yes to coach" attitude ("Vince, you're slow, run sprints" - "Yes coach", "Vince, you're going to sit on the bench this week" - "Yes coach" etc...). I've kind of taken that attitude in to the early days of my career (I'm still a 'young pup' academia wise) but I also am very grateful of every opportunity that gets sent my way (I'm very lucky to be sitting on various committees, the editorial boards for a couple of journals for example and am in the middle of preparing not 1 but 2 brand new courses which is a great opportunity!).
 
