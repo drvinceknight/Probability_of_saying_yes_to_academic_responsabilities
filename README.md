@@ -1,6 +1,6 @@
 Repo for blog post making use of XKCDify. I wrote some code for a blog post after reading [this post](http://blogs.ams.org/phdplus/2013/05/19/learning-to-say-no/).
 
-The main point of my post is to draw a plot in XKCD style showing the probability of saying "yes" to various academic responsibility requests.o
+The main point of my post is to draw a plot in XKCD style showing the probability of saying "yes" to various academic responsibility requests.
 
 I make use of this [github repo](https://github.com/twam/matplotlib-XKCDify) for the XKCDify part.
 
