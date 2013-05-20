@@ -32,7 +32,7 @@ y = [9 - (e - 16) / 5 + random.random() / 10 for e in x]
 ax.plot(x, y, 'b--', lw=1)
 
 # set labels/title
-ax.set_title('Prob of saying "Yes" to academic responsabilities')
+ax.set_title('Prob of saying "Yes" to academic responsibilities')
 ax.set_xlabel('Career stage')
 ax.set_ylabel('%')
 
