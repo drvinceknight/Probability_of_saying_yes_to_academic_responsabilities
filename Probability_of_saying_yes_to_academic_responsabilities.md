@@ -16,4 +16,4 @@ I'm about at the point where the solid line meets the dashed line (ie the "unkow
 
 In Adriano's post she talks about a "research day", I might try to be strict on that...
 
-(If anyone's interested here's the [repo]() with the code I used to get that plot, I actually used +Sage's `find_fit` command to fit a quintic to the few points I wanted to have on there... There might be a better way to do that though...)
+(If anyone's interested here's the [repo](https://github.com/drvinceknight/Probability_of_saying_yes_to_academic_responsabilities) with the code I used to get that plot, I actually used +Sage's `find_fit` command to fit a quintic to the few points I wanted to have on there... There might be a better way to do that though...)
