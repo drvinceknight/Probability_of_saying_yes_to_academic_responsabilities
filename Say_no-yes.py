@@ -33,7 +33,7 @@ ax.plot(x, y, 'b--', lw=1)
 
 # set labels/title
 ax.set_title('Prob of saying "Yes" to academic responsabilities')
-#ax.set_xlabel('Career stage')
+ax.set_xlabel('Career stage')
 ax.set_ylabel('%')
 
 # set legend position

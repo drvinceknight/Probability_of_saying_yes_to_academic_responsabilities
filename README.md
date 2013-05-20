@@ -1,4 +1,4 @@
-Repo for blog post making use of XKCDify. I wrote some code for a blog post after reading [this post](http://blogs.ams.org/phdplus/2013/05/19/learning-to-say-no/).
+Repo for blog post making use of XKCDify. I wrote some code for a [blog post](http://drvinceknight.blogspot.co.uk/2013/05/probability-of-saying-yes-to-academic.html) after reading [this post](http://blogs.ams.org/phdplus/2013/05/19/learning-to-say-no/).
 
 The main point of my post is to draw a plot in XKCD style showing the probability of saying "yes" to various academic responsibility requests.
 
